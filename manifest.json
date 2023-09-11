@@ -1,0 +1,14 @@
+{
+    "name":"Competitive Coder",
+    "description": "Helps to look at a glance at all your current standings on various coding platforms",
+    "version":"1.0.0",
+    "manifest_version": 3,
+    "author":"Arihant Jain",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"CP GUY"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
